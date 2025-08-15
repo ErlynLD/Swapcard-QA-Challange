@@ -1,0 +1,22 @@
+[
+  {
+    "book": "Moby-Dick",
+    "max_price": 1000,
+    "min_rating": 4.1
+  },
+  {
+    "book": "7 habits of highly effective people",
+    "max_price": 500,
+    "min_rating": 4.5
+  },
+  {
+    "book": "Bible",
+    "max_price": 100,
+    "min_rating": 5.0
+  },
+  {
+    "book": "Rich dad poor dad",
+    "max_price": 300,
+    "min_rating": 5.0
+  }
+]

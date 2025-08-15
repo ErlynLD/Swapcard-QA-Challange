@@ -1,0 +1,5 @@
+{
+  "browser": "Chrome",
+  "implicit_wait": 20,
+  "base_url": "http://www.google.com"
+}

@@ -1,22 +1,22 @@
 [
   {
-    "book": "Moby-Dick",
+    "name": "Moby-Dick",
     "max_price": 1000,
-    "min_rating": 4.1
+    "min_rate": 4.1
   },
   {
-    "book": "7 habits of highly effective people",
+    "name": "7 habits of highly effective people",
     "max_price": 500,
-    "min_rating": 4.5
+    "min_rate": 4.5
   },
   {
-    "book": "Bible",
+    "name": "Bible",
     "max_price": 100,
-    "min_rating": 5.0
+    "min_rate": 5.0
   },
   {
-    "book": "Rich dad poor dad",
+    "name": "Rich dad poor dad",
     "max_price": 300,
-    "min_rating": 5.0
+    "min_rate": 4.8
   }
 ]
